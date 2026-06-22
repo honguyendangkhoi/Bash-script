@@ -29,4 +29,10 @@ Scripts built to practice loops, conditions, text manipulation, and algorithmic 
 1. Clone the repository:
 ```bash
    git clone [https://github.com/honguyendangkhoi/Bash-script.git](https://github.com/honguyendangkhoi/Bash-script.git)
-   cd Bash-script
+   cd Bash-script```
+
+2. Grant execution permissions to the script you want to run:
+chmod +x script_name.sh
+
+3. Execute the script:
+./script_name.sh
