@@ -32,3 +32,4 @@ git clone [https://github.com/honguyendangkhoi/Bash-script.git](https://github.c
 cd Bash-script
 chmod +x script_name.sh
 ./script_name.sh
+```
